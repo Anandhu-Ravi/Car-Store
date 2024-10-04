@@ -1,0 +1,32 @@
+body {
+    background-color: darkgray;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.table-container {
+    margin: 30px auto;
+    width: 80%;
+}
+
+button {
+    margin-top: 10px;
+}
+
+.buton {
+    text-align: center;
+}
